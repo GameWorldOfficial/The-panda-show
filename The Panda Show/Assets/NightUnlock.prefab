@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4139356066251124262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6851715500254625392}
+  - component: {fileID: 4099022734001479377}
+  m_Layer: 0
+  m_Name: NightUnlock 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6851715500254625392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4139356066251124262}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 131.8679, y: 20.211914, z: 121.472305}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4099022734001479377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4139356066251124262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a184e653dfc344ab28c81c5ac5f862, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TimeCounter: {fileID: 1238897111486803465, guid: 89f5894d7bb5f554f901fcdd99c6d4ab,
+    type: 3}
+  Night2buttonlocked: {fileID: 4752180050489683253, guid: d5dfeda135e231342967c82e6a3062a2,
+    type: 3}
+  Night2buttonunlocked: {fileID: 5503645293154539071, guid: b17517cbf97bfbb418379b1963f52169,
+    type: 3}
+  Night1: 0
+  Night2: 0
+  Night3: 0
+  Night4: 0
+  Night5: 0
+  Night6: 0
+  Night7: 0
+  Night8: 0
+  Night9: 0
+  Night10: 0

@@ -1,0 +1,1182 @@
+fileFormatVersion: 2
+guid: ec6ba75c3ab05f34494430570ee94a8f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BezierCircle.000
+    100004: BezierCircle.001
+    100006: BezierCircle.002
+    100008: BezierCircle.003
+    100010: BezierCircle.004
+    100012: BezierCircle.005
+    100014: BezierCircle.006
+    100016: BezierCircle.007
+    100018: BezierCircle.008
+    100020: BezierCircle.009
+    100022: BezierCircle.010
+    100024: BezierCircle.011
+    100026: BezierCircle.012
+    100028: BezierCircle.013
+    100030: BezierCircle.021
+    100032: BezierCircle.025
+    100034: BezierCurve
+    100036: BezierCurve.001
+    100038: BezierCurve.002
+    100040: BezierCurve.003
+    100042: bip_bowtie
+    100044: bip_bowtie_end
+    100046: bip_brow_L
+    100048: bip_brow_L_end
+    100050: bip_brow_R
+    100052: bip_brow_R_end
+    100054: bip_endo_jaw
+    100056: bip_eye_L
+    100058: bip_eye_L_end
+    100060: bip_eye_R
+    100062: bip_eye_R_end
+    100064: bip_eyelid_L
+    100066: bip_eyelid_L_end
+    100068: bip_eyelid_R
+    100070: bip_eyelid_R_end
+    100072: bip_foot_L
+    100074: bip_foot_L_end
+    100076: bip_foot_R
+    100078: bip_foot_R_end
+    100080: bip_hand_L
+    100082: bip_hand_R
+    100084: bip_head
+    100086: bip_hip_L
+    100088: bip_hip_R
+    100090: bip_index_0_L
+    100092: bip_index_0_R
+    100094: bip_index_1_L
+    100096: bip_index_1_R
+    100098: bip_index_2_L
+    100100: bip_index_2_L_end
+    100102: bip_index_2_R
+    100104: bip_index_2_R_end
+    100106: bip_jaw_L
+    100108: bip_jaw_L_end
+    100110: bip_jaw_R
+    100112: bip_jaw_R_end
+    100114: bip_knee_L
+    100116: bip_knee_R
+    100118: bip_lower_plate_L
+    100120: bip_lower_plate_L_end
+    100122: bip_lower_plate_R
+    100124: bip_lower_plate_R_end
+    100126: bip_lowerarm_L
+    100128: bip_lowerarm_R
+    100130: bip_middle_0_L
+    100132: bip_middle_0_R
+    100134: bip_middle_1_L
+    100136: bip_middle_1_R
+    100138: bip_middle_2_L
+    100140: bip_middle_2_L_end
+    100142: bip_middle_2_R
+    100144: bip_middle_2_R_end
+    100146: bip_neck
+    100148: bip_pelvis
+    100150: bip_pelvis.002
+    100152: bip_pelvis.003
+    100154: bip_pelvis.004
+    100156: bip_pelvis.005
+    100158: bip_pelvis.006
+    100160: bip_pelvis.007
+    100162: bip_pelvis.007_end
+    100164: bip_pinky_0_L
+    100166: bip_pinky_0_R
+    100168: bip_pinky_1_L
+    100170: bip_pinky_1_R
+    100172: bip_pinky_2_L
+    100174: bip_pinky_2_L_end
+    100176: bip_pinky_2_R
+    100178: bip_pinky_2_R_end
+    100180: bip_ring_0_L
+    100182: bip_ring_0_R
+    100184: bip_ring_1_L
+    100186: bip_ring_1_R
+    100188: bip_ring_2_L
+    100190: bip_ring_2_L_end
+    100192: bip_ring_2_R
+    100194: bip_ring_2_R_end
+    100196: bip_spine_0
+    100198: bip_spine_0.002
+    100200: bip_spine_0.003
+    100202: bip_spine_0.004
+    100204: bip_spine_0.005
+    100206: bip_spine_0.005_end
+    100208: bip_spine_0.006
+    100210: bip_spine_0.006_end
+    100212: bip_spine_0.007
+    100214: bip_spine_0.007_end
+    100216: bip_spine_0.008
+    100218: bip_spine_0.009
+    100220: bip_spine_0.010
+    100222: bip_spine_0.010_end
+    100224: bip_spine_0.011
+    100226: bip_spine_0.011_end
+    100228: bip_spine_0.012
+    100230: bip_spine_0.013
+    100232: bip_spine_0.014
+    100234: bip_spine_0.014_end
+    100236: bip_spine_0.015
+    100238: bip_spine_0.015_end
+    100240: bip_spine_0.016
+    100242: bip_spine_0.017
+    100244: bip_spine_0.018
+    100246: bip_spine_0.019
+    100248: bip_spine_0.019_end
+    100250: bip_spine_0.020
+    100252: bip_spine_0.021
+    100254: bip_spine_0.022
+    100256: bip_spine_0.022_end
+    100258: bip_spine_0.023
+    100260: bip_spine_0.023_end
+    100262: bip_spine_0.024
+    100264: bip_spine_0.024_end
+    100266: bip_spine_0.025
+    100268: bip_spine_0.026
+    100270: bip_spine_0.027
+    100272: bip_spine_0.027_end
+    100274: bip_spine_0.028
+    100276: bip_spine_0.028_end
+    100278: bip_spine_0.029
+    100280: bip_spine_0.029_end
+    100282: bip_thumb_0_L
+    100284: bip_thumb_0_R
+    100286: bip_thumb_1_L
+    100288: bip_thumb_1_R
+    100290: bip_thumb_2_L
+    100292: bip_thumb_2_L_end
+    100294: bip_thumb_2_R
+    100296: bip_thumb_2_R_end
+    100298: bip_upper_plate_L
+    100300: bip_upper_plate_L.002
+    100302: bip_upper_plate_L.002_end
+    100304: bip_upper_plate_R
+    100306: bip_upper_plate_R.002
+    100308: bip_upper_plate_R.002_end
+    100310: bip_upperarm_L
+    100312: bip_upperarm_R
+    100314: Camera
+    100316: Circle.000
+    100318: Circle.005
+    100320: Circle.018
+    100322: Cube
+    100324: Cube.001
+    100326: Cube.002
+    100328: Cube.003
+    100330: Cube.004
+    100332: Cube.005
+    100334: Cube.006
+    100336: Cube.007
+    100338: Cube.008
+    100340: Cube.009
+    100342: Cube.010
+    100344: Cube.011
+    100346: Cube.012
+    100348: Cube.017
+    100350: Cubo.000
+    100352: Cubo.001
+    100354: Cylinder
+    100356: Cylinder.001
+    100358: Cylinder.002
+    100360: Cylinder.003
+    100362: Cylinder.004
+    100364: Cylinder.005
+    100366: Cylinder.006
+    100368: Cylinder.007
+    100370: Cylinder.008
+    100372: Cylinder.009
+    100374: Cylinder.010
+    100376: Cylinder.011
+    100378: Cylinder.012
+    100380: Cylinder.013
+    100382: Cylinder.014
+    100384: Cylinder.015
+    100386: Cylinder.016
+    100388: Cylinder.052
+    100390: Cylinder.105_Cylinder.001
+    100392: Funtime Foxy Arms
+    100394: Funtime Foxy Legs
+    100396: Funtime_Foxy_Body_Pink
+    100398: Funtime_Foxy_Body_Speaker
+    100400: Funtime_Foxy_Chest
+    100402: Funtime_Foxy_Endo_Jaw_Under_Teeth
+    100404: Funtime_Foxy_Endo_Jaw_Upper_Teeth.001
+    100406: Funtime_Foxy_Snout_Nose.001
+    100408: funtimefoxy_feets.000
+    100410: Hand L
+    100412: Hand L.001
+    100414: Hand L.002
+    100416: Hand L.003
+    100418: Hand L.004
+    100420: Hand L.005
+    100422: Hand L.006
+    100424: Hand L.007
+    100426: Hand L.008
+    100428: Hand L.009
+    100430: Hand L.010
+    100432: Hand L.011
+    100434: Hand L.012
+    100436: Hand L.013
+    100438: Hand L.014
+    100440: Hand L.015
+    100442: Hand L.016
+    100444: Hand R
+    100446: Hand R.001
+    100448: Hand R.002
+    100450: Hand R.003
+    100452: Hand R.004
+    100454: Hand R.005
+    100456: Hand R.006
+    100458: Hand R.007
+    100460: Hand R.008
+    100462: Hand R.009
+    100464: Hand R.010
+    100466: Hand R.011
+    100468: Hand R.012
+    100470: Hand R.013
+    100472: Hand R.014
+    100474: Hand R.015
+    100476: Hand R.016
+    100478: Icosphere.001
+    100480: Icosphere.002
+    100482: Icosphere.003
+    100484: Icosphere.031
+    100486: Icosphere.032
+    100488: Icosphere.033
+    100490: Icosphere.034
+    100492: Icosphere.063
+    100494: Lamp.001
+    100496: Lamp.002
+    100498: Lamp.003
+    100500: Lamp.004
+    100502: Lamp.009
+    100504: Lower Arms
+    100506: Lower Legs
+    100508: Mask.000
+    100510: Mask.001
+    100512: Mask.002
+    100514: Mask.003
+    100516: NurbsCurve.014_Mesh.000
+    100518: NurbsCurve.014_Mesh.001
+    100520: NurbsCurve.014_Mesh.002
+    100522: NurbsCurve.014_Mesh.003
+    100524: NurbsCurve.014_Mesh.004
+    100526: NurbsCurve.014_Mesh.005
+    100528: NurbsCurve.014_Mesh.006
+    100530: NurbsCurve.014_Mesh.007
+    100532: NurbsCurve.014_Mesh.008
+    100534: NurbsCurve.014_Mesh.009
+    100536: NurbsCurve.014_Mesh.010
+    100538: NurbsCurve.014_Mesh.011
+    100540: NurbsCurve.014_Mesh.012
+    100542: NurbsCurve.014_Mesh.013
+    100544: NurbsCurve.014_Mesh.014
+    100546: NurbsCurve.014_Mesh.015
+    100548: NurbsCurve.014_Mesh.016
+    100550: NurbsCurve.014_Mesh.017
+    100552: NurbsPath.002
+    100554: NurbsPath.008
+    100556: NurbsPath.010
+    100558: NurbsPath.040
+    100560: NurbsPath.041
+    100562: NurbsPath.043
+    100564: Plane
+    100566: Plane.001
+    100568: Plane.002
+    100570: Plane.003
+    100572: Plane.004
+    100574: Plane.010
+    100576: snout
+    100578: snout.012
+    100580: snout.013
+    100582: snout.014
+    100584: snout.015
+    100586: snout.016
+    100588: snout.017
+    100590: snout.018
+    100592: snout.019
+    100594: snout.020
+    100596: snout.021
+    100598: snout.022
+    100600: snout.023
+    100602: snout.024
+    100604: snout.025
+    100606: snout.026
+    100608: snout.027
+    100610: snout.028
+    100612: snout.029
+    100614: snout.030
+    100616: snout.031
+    100618: snout.032
+    100620: snout.033
+    100622: snout.034
+    100624: snout.035
+    100626: snout.036
+    100628: snout.037
+    100630: snout.038
+    100632: snout.039
+    100634: snout.040
+    100636: snout.041
+    100638: snout.042
+    100640: snout.043
+    100642: Sphere
+    100644: Torus.000
+    100646: Torus.005
+    100648: Torus.018
+    100650: //RootNode
+    400000: Armature
+    400002: BezierCircle.000
+    400004: BezierCircle.001
+    400006: BezierCircle.002
+    400008: BezierCircle.003
+    400010: BezierCircle.004
+    400012: BezierCircle.005
+    400014: BezierCircle.006
+    400016: BezierCircle.007
+    400018: BezierCircle.008
+    400020: BezierCircle.009
+    400022: BezierCircle.010
+    400024: BezierCircle.011
+    400026: BezierCircle.012
+    400028: BezierCircle.013
+    400030: BezierCircle.021
+    400032: BezierCircle.025
+    400034: BezierCurve
+    400036: BezierCurve.001
+    400038: BezierCurve.002
+    400040: BezierCurve.003
+    400042: bip_bowtie
+    400044: bip_bowtie_end
+    400046: bip_brow_L
+    400048: bip_brow_L_end
+    400050: bip_brow_R
+    400052: bip_brow_R_end
+    400054: bip_endo_jaw
+    400056: bip_eye_L
+    400058: bip_eye_L_end
+    400060: bip_eye_R
+    400062: bip_eye_R_end
+    400064: bip_eyelid_L
+    400066: bip_eyelid_L_end
+    400068: bip_eyelid_R
+    400070: bip_eyelid_R_end
+    400072: bip_foot_L
+    400074: bip_foot_L_end
+    400076: bip_foot_R
+    400078: bip_foot_R_end
+    400080: bip_hand_L
+    400082: bip_hand_R
+    400084: bip_head
+    400086: bip_hip_L
+    400088: bip_hip_R
+    400090: bip_index_0_L
+    400092: bip_index_0_R
+    400094: bip_index_1_L
+    400096: bip_index_1_R
+    400098: bip_index_2_L
+    400100: bip_index_2_L_end
+    400102: bip_index_2_R
+    400104: bip_index_2_R_end
+    400106: bip_jaw_L
+    400108: bip_jaw_L_end
+    400110: bip_jaw_R
+    400112: bip_jaw_R_end
+    400114: bip_knee_L
+    400116: bip_knee_R
+    400118: bip_lower_plate_L
+    400120: bip_lower_plate_L_end
+    400122: bip_lower_plate_R
+    400124: bip_lower_plate_R_end
+    400126: bip_lowerarm_L
+    400128: bip_lowerarm_R
+    400130: bip_middle_0_L
+    400132: bip_middle_0_R
+    400134: bip_middle_1_L
+    400136: bip_middle_1_R
+    400138: bip_middle_2_L
+    400140: bip_middle_2_L_end
+    400142: bip_middle_2_R
+    400144: bip_middle_2_R_end
+    400146: bip_neck
+    400148: bip_pelvis
+    400150: bip_pelvis.002
+    400152: bip_pelvis.003
+    400154: bip_pelvis.004
+    400156: bip_pelvis.005
+    400158: bip_pelvis.006
+    400160: bip_pelvis.007
+    400162: bip_pelvis.007_end
+    400164: bip_pinky_0_L
+    400166: bip_pinky_0_R
+    400168: bip_pinky_1_L
+    400170: bip_pinky_1_R
+    400172: bip_pinky_2_L
+    400174: bip_pinky_2_L_end
+    400176: bip_pinky_2_R
+    400178: bip_pinky_2_R_end
+    400180: bip_ring_0_L
+    400182: bip_ring_0_R
+    400184: bip_ring_1_L
+    400186: bip_ring_1_R
+    400188: bip_ring_2_L
+    400190: bip_ring_2_L_end
+    400192: bip_ring_2_R
+    400194: bip_ring_2_R_end
+    400196: bip_spine_0
+    400198: bip_spine_0.002
+    400200: bip_spine_0.003
+    400202: bip_spine_0.004
+    400204: bip_spine_0.005
+    400206: bip_spine_0.005_end
+    400208: bip_spine_0.006
+    400210: bip_spine_0.006_end
+    400212: bip_spine_0.007
+    400214: bip_spine_0.007_end
+    400216: bip_spine_0.008
+    400218: bip_spine_0.009
+    400220: bip_spine_0.010
+    400222: bip_spine_0.010_end
+    400224: bip_spine_0.011
+    400226: bip_spine_0.011_end
+    400228: bip_spine_0.012
+    400230: bip_spine_0.013
+    400232: bip_spine_0.014
+    400234: bip_spine_0.014_end
+    400236: bip_spine_0.015
+    400238: bip_spine_0.015_end
+    400240: bip_spine_0.016
+    400242: bip_spine_0.017
+    400244: bip_spine_0.018
+    400246: bip_spine_0.019
+    400248: bip_spine_0.019_end
+    400250: bip_spine_0.020
+    400252: bip_spine_0.021
+    400254: bip_spine_0.022
+    400256: bip_spine_0.022_end
+    400258: bip_spine_0.023
+    400260: bip_spine_0.023_end
+    400262: bip_spine_0.024
+    400264: bip_spine_0.024_end
+    400266: bip_spine_0.025
+    400268: bip_spine_0.026
+    400270: bip_spine_0.027
+    400272: bip_spine_0.027_end
+    400274: bip_spine_0.028
+    400276: bip_spine_0.028_end
+    400278: bip_spine_0.029
+    400280: bip_spine_0.029_end
+    400282: bip_thumb_0_L
+    400284: bip_thumb_0_R
+    400286: bip_thumb_1_L
+    400288: bip_thumb_1_R
+    400290: bip_thumb_2_L
+    400292: bip_thumb_2_L_end
+    400294: bip_thumb_2_R
+    400296: bip_thumb_2_R_end
+    400298: bip_upper_plate_L
+    400300: bip_upper_plate_L.002
+    400302: bip_upper_plate_L.002_end
+    400304: bip_upper_plate_R
+    400306: bip_upper_plate_R.002
+    400308: bip_upper_plate_R.002_end
+    400310: bip_upperarm_L
+    400312: bip_upperarm_R
+    400314: Camera
+    400316: Circle.000
+    400318: Circle.005
+    400320: Circle.018
+    400322: Cube
+    400324: Cube.001
+    400326: Cube.002
+    400328: Cube.003
+    400330: Cube.004
+    400332: Cube.005
+    400334: Cube.006
+    400336: Cube.007
+    400338: Cube.008
+    400340: Cube.009
+    400342: Cube.010
+    400344: Cube.011
+    400346: Cube.012
+    400348: Cube.017
+    400350: Cubo.000
+    400352: Cubo.001
+    400354: Cylinder
+    400356: Cylinder.001
+    400358: Cylinder.002
+    400360: Cylinder.003
+    400362: Cylinder.004
+    400364: Cylinder.005
+    400366: Cylinder.006
+    400368: Cylinder.007
+    400370: Cylinder.008
+    400372: Cylinder.009
+    400374: Cylinder.010
+    400376: Cylinder.011
+    400378: Cylinder.012
+    400380: Cylinder.013
+    400382: Cylinder.014
+    400384: Cylinder.015
+    400386: Cylinder.016
+    400388: Cylinder.052
+    400390: Cylinder.105_Cylinder.001
+    400392: Funtime Foxy Arms
+    400394: Funtime Foxy Legs
+    400396: Funtime_Foxy_Body_Pink
+    400398: Funtime_Foxy_Body_Speaker
+    400400: Funtime_Foxy_Chest
+    400402: Funtime_Foxy_Endo_Jaw_Under_Teeth
+    400404: Funtime_Foxy_Endo_Jaw_Upper_Teeth.001
+    400406: Funtime_Foxy_Snout_Nose.001
+    400408: funtimefoxy_feets.000
+    400410: Hand L
+    400412: Hand L.001
+    400414: Hand L.002
+    400416: Hand L.003
+    400418: Hand L.004
+    400420: Hand L.005
+    400422: Hand L.006
+    400424: Hand L.007
+    400426: Hand L.008
+    400428: Hand L.009
+    400430: Hand L.010
+    400432: Hand L.011
+    400434: Hand L.012
+    400436: Hand L.013
+    400438: Hand L.014
+    400440: Hand L.015
+    400442: Hand L.016
+    400444: Hand R
+    400446: Hand R.001
+    400448: Hand R.002
+    400450: Hand R.003
+    400452: Hand R.004
+    400454: Hand R.005
+    400456: Hand R.006
+    400458: Hand R.007
+    400460: Hand R.008
+    400462: Hand R.009
+    400464: Hand R.010
+    400466: Hand R.011
+    400468: Hand R.012
+    400470: Hand R.013
+    400472: Hand R.014
+    400474: Hand R.015
+    400476: Hand R.016
+    400478: Icosphere.001
+    400480: Icosphere.002
+    400482: Icosphere.003
+    400484: Icosphere.031
+    400486: Icosphere.032
+    400488: Icosphere.033
+    400490: Icosphere.034
+    400492: Icosphere.063
+    400494: Lamp.001
+    400496: Lamp.002
+    400498: Lamp.003
+    400500: Lamp.004
+    400502: Lamp.009
+    400504: Lower Arms
+    400506: Lower Legs
+    400508: Mask.000
+    400510: Mask.001
+    400512: Mask.002
+    400514: Mask.003
+    400516: NurbsCurve.014_Mesh.000
+    400518: NurbsCurve.014_Mesh.001
+    400520: NurbsCurve.014_Mesh.002
+    400522: NurbsCurve.014_Mesh.003
+    400524: NurbsCurve.014_Mesh.004
+    400526: NurbsCurve.014_Mesh.005
+    400528: NurbsCurve.014_Mesh.006
+    400530: NurbsCurve.014_Mesh.007
+    400532: NurbsCurve.014_Mesh.008
+    400534: NurbsCurve.014_Mesh.009
+    400536: NurbsCurve.014_Mesh.010
+    400538: NurbsCurve.014_Mesh.011
+    400540: NurbsCurve.014_Mesh.012
+    400542: NurbsCurve.014_Mesh.013
+    400544: NurbsCurve.014_Mesh.014
+    400546: NurbsCurve.014_Mesh.015
+    400548: NurbsCurve.014_Mesh.016
+    400550: NurbsCurve.014_Mesh.017
+    400552: NurbsPath.002
+    400554: NurbsPath.008
+    400556: NurbsPath.010
+    400558: NurbsPath.040
+    400560: NurbsPath.041
+    400562: NurbsPath.043
+    400564: Plane
+    400566: Plane.001
+    400568: Plane.002
+    400570: Plane.003
+    400572: Plane.004
+    400574: Plane.010
+    400576: snout
+    400578: snout.012
+    400580: snout.013
+    400582: snout.014
+    400584: snout.015
+    400586: snout.016
+    400588: snout.017
+    400590: snout.018
+    400592: snout.019
+    400594: snout.020
+    400596: snout.021
+    400598: snout.022
+    400600: snout.023
+    400602: snout.024
+    400604: snout.025
+    400606: snout.026
+    400608: snout.027
+    400610: snout.028
+    400612: snout.029
+    400614: snout.030
+    400616: snout.031
+    400618: snout.032
+    400620: snout.033
+    400622: snout.034
+    400624: snout.035
+    400626: snout.036
+    400628: snout.037
+    400630: snout.038
+    400632: snout.039
+    400634: snout.040
+    400636: snout.041
+    400638: snout.042
+    400640: snout.043
+    400642: Sphere
+    400644: Torus.000
+    400646: Torus.005
+    400648: Torus.018
+    400650: //RootNode
+    2000000: Camera
+    2100000: Tragedy DGreen
+    2100002: Tragedy Gold
+    2100004: Tragedy Grey
+    2100006: Black
+    2100008: Tragedy White
+    2100010: Tragedy Green
+    2100012: Endo_1
+    2100014: endo1
+    2100016: endo2
+    2100018: Teeth
+    2100020: Black2
+    2100022: Speakerout
+    2100024: REFBLACK
+    2100026: Tie
+    2100028: Eye
+    2100030: Eye Glow
+    2100032: Speaker
+    2100034: EndoTeeth
+    2300000: Circle.000
+    2300002: Circle.018
+    2300004: Cube.001
+    2300006: Cube.005
+    2300008: Cube.007
+    2300010: Cube.008
+    2300012: Cube.009
+    2300014: Cube.011
+    2300016: Cube.012
+    2300018: Cube.017
+    2300020: Cylinder
+    2300022: Cylinder.001
+    2300024: Cylinder.002
+    2300026: Cylinder.003
+    2300028: Cylinder.004
+    2300030: Cylinder.005
+    2300032: Cylinder.006
+    2300034: Cylinder.007
+    2300036: Cylinder.008
+    2300038: Cylinder.009
+    2300040: Cylinder.010
+    2300042: Cylinder.011
+    2300044: Cylinder.012
+    2300046: Cylinder.015
+    2300048: Cylinder.016
+    2300050: Cylinder.052
+    2300052: Mask.000
+    2300054: Mask.001
+    2300056: NurbsCurve.014_Mesh.001
+    2300058: NurbsCurve.014_Mesh.002
+    2300060: NurbsCurve.014_Mesh.003
+    2300062: NurbsCurve.014_Mesh.004
+    2300064: NurbsCurve.014_Mesh.006
+    2300066: NurbsCurve.014_Mesh.007
+    2300068: NurbsCurve.014_Mesh.008
+    2300070: NurbsCurve.014_Mesh.009
+    2300072: NurbsCurve.014_Mesh.010
+    2300074: NurbsCurve.014_Mesh.011
+    2300076: NurbsCurve.014_Mesh.012
+    2300078: NurbsCurve.014_Mesh.013
+    2300080: NurbsCurve.014_Mesh.014
+    2300082: NurbsCurve.014_Mesh.015
+    2300084: NurbsCurve.014_Mesh.016
+    2300086: NurbsCurve.014_Mesh.017
+    2300088: Plane
+    2300090: Plane.001
+    2300092: Plane.004
+    2300094: Plane.010
+    2300096: Sphere
+    3300000: Circle.000
+    3300002: Circle.018
+    3300004: Cube.001
+    3300006: Cube.005
+    3300008: Cube.007
+    3300010: Cube.008
+    3300012: Cube.009
+    3300014: Cube.011
+    3300016: Cube.012
+    3300018: Cube.017
+    3300020: Cylinder
+    3300022: Cylinder.001
+    3300024: Cylinder.002
+    3300026: Cylinder.003
+    3300028: Cylinder.004
+    3300030: Cylinder.005
+    3300032: Cylinder.006
+    3300034: Cylinder.007
+    3300036: Cylinder.008
+    3300038: Cylinder.009
+    3300040: Cylinder.010
+    3300042: Cylinder.011
+    3300044: Cylinder.012
+    3300046: Cylinder.015
+    3300048: Cylinder.016
+    3300050: Cylinder.052
+    3300052: Mask.000
+    3300054: Mask.001
+    3300056: NurbsCurve.014_Mesh.001
+    3300058: NurbsCurve.014_Mesh.002
+    3300060: NurbsCurve.014_Mesh.003
+    3300062: NurbsCurve.014_Mesh.004
+    3300064: NurbsCurve.014_Mesh.006
+    3300066: NurbsCurve.014_Mesh.007
+    3300068: NurbsCurve.014_Mesh.008
+    3300070: NurbsCurve.014_Mesh.009
+    3300072: NurbsCurve.014_Mesh.010
+    3300074: NurbsCurve.014_Mesh.011
+    3300076: NurbsCurve.014_Mesh.012
+    3300078: NurbsCurve.014_Mesh.013
+    3300080: NurbsCurve.014_Mesh.014
+    3300082: NurbsCurve.014_Mesh.015
+    3300084: NurbsCurve.014_Mesh.016
+    3300086: NurbsCurve.014_Mesh.017
+    3300088: Plane
+    3300090: Plane.001
+    3300092: Plane.004
+    3300094: Plane.010
+    3300096: Sphere
+    4300000: Sphere
+    4300002: Cube.008
+    4300004: Cube.007
+    4300006: Plane
+    4300008: Mask.001
+    4300010: Mask.000
+    4300012: Cube.012
+    4300014: Cube.005
+    4300016: Plane.001
+    4300018: Cube.017
+    4300020: Cube.009
+    4300022: Cylinder.015
+    4300024: Cylinder.006
+    4300026: Cylinder.007
+    4300028: Cylinder.008
+    4300030: Cylinder.009
+    4300032: Cylinder
+    4300034: Cylinder.016
+    4300036: Cylinder.004
+    4300038: Cylinder.003
+    4300040: Cylinder.002
+    4300042: Cylinder.001
+    4300044: Cylinder.005
+    4300046: Cylinder.012
+    4300048: Cylinder.011
+    4300050: Cube.001
+    4300052: NurbsCurve.014_Mesh.001
+    4300054: NurbsCurve.014_Mesh.002
+    4300056: NurbsCurve.014_Mesh.006
+    4300058: NurbsCurve.014_Mesh.003
+    4300060: NurbsCurve.014_Mesh.004
+    4300062: Cylinder.052
+    4300064: Cylinder.010
+    4300066: Cube.011
+    4300068: NurbsCurve.014_Mesh.011
+    4300070: NurbsCurve.014_Mesh.010
+    4300072: NurbsCurve.014_Mesh.007
+    4300074: NurbsCurve.014_Mesh.009
+    4300076: NurbsCurve.014_Mesh.008
+    4300078: Plane.004
+    4300080: Circle.000
+    4300082: Circle.018
+    4300084: Plane.010
+    4300086: NurbsCurve.014_Mesh.012
+    4300088: NurbsCurve.014_Mesh.013
+    4300090: NurbsCurve.014_Mesh.014
+    4300092: NurbsCurve.014_Mesh.015
+    4300094: NurbsCurve.014_Mesh.016
+    4300096: NurbsCurve.014_Mesh.017
+    4300098: Plane.003
+    4300100: Plane.002
+    4300102: funtimefoxy_feets.000
+    4300104: Hand R.016
+    4300106: Hand R.015
+    4300108: Hand R.014
+    4300110: Hand R.013
+    4300112: Hand R.012
+    4300114: Hand R.011
+    4300116: Hand R.010
+    4300118: Hand R.009
+    4300120: Hand R.008
+    4300122: Hand R.007
+    4300124: Hand R.006
+    4300126: Hand R.005
+    4300128: Hand R.004
+    4300130: Hand R.003
+    4300132: Hand R.002
+    4300134: Hand L.016
+    4300136: Hand L.015
+    4300138: Hand L.014
+    4300140: Hand L.013
+    4300142: Hand L.012
+    4300144: Hand L.011
+    4300146: Hand L.010
+    4300148: Hand L.009
+    4300150: Hand L.008
+    4300152: Hand L.007
+    4300154: Hand L.006
+    4300156: Hand L.005
+    4300158: Hand L.004
+    4300160: Hand L.003
+    4300162: Hand L.002
+    4300164: snout.043
+    4300166: snout.042
+    4300168: snout.041
+    4300170: snout.040
+    4300172: snout.039
+    4300174: snout.038
+    4300176: snout.037
+    4300178: snout.036
+    4300180: snout.035
+    4300182: snout.034
+    4300184: snout.033
+    4300186: snout.032
+    4300188: snout.031
+    4300190: snout.030
+    4300192: snout.029
+    4300194: snout.028
+    4300196: snout.027
+    4300198: snout.026
+    4300200: snout.025
+    4300202: snout.024
+    4300204: snout.023
+    4300206: snout.022
+    4300208: snout.021
+    4300210: snout.020
+    4300212: snout.019
+    4300214: snout.018
+    4300216: snout.017
+    4300218: snout.016
+    4300220: snout.015
+    4300222: snout.014
+    4300224: snout.013
+    4300226: snout.012
+    4300228: Mask.003
+    4300230: Mask.002
+    4300232: BezierCurve.002
+    4300234: BezierCurve.001
+    4300236: Cube.006
+    4300238: Hand R.001
+    4300240: Hand L.001
+    4300242: BezierCircle.000
+    4300244: BezierCircle.001
+    4300246: BezierCircle.002
+    4300248: BezierCircle.003
+    4300250: BezierCircle.004
+    4300252: BezierCircle.005
+    4300254: BezierCircle.006
+    4300256: BezierCircle.007
+    4300258: BezierCircle.008
+    4300260: BezierCircle.009
+    4300262: BezierCircle.010
+    4300264: BezierCircle.011
+    4300266: BezierCircle.012
+    4300268: BezierCircle.013
+    4300270: BezierCircle.021
+    4300272: BezierCircle.025
+    4300274: BezierCurve
+    4300276: BezierCurve.003
+    4300278: Circle.005
+    4300280: Lower Arms
+    4300282: Lower Legs
+    4300284: Cube
+    4300286: Cube.002
+    4300288: Cube.003
+    4300290: Cube.004
+    4300292: Hand L
+    4300294: Cubo.000
+    4300296: Cubo.001
+    4300298: snout
+    4300300: Cylinder.013
+    4300302: Cylinder.014
+    4300304: Cylinder.105_Cylinder.001
+    4300306: Funtime Foxy Arms
+    4300308: Funtime Foxy Legs
+    4300310: Funtime_Foxy_Body_Pink
+    4300312: Funtime_Foxy_Body_Speaker
+    4300314: Funtime_Foxy_Chest
+    4300316: Funtime_Foxy_Endo_Jaw_Under_Teeth
+    4300318: Funtime_Foxy_Endo_Jaw_Upper_Teeth.001
+    4300320: Funtime_Foxy_Snout_Nose.001
+    4300322: Icosphere.001
+    4300324: Icosphere.002
+    4300326: Icosphere.003
+    4300328: Icosphere.031
+    4300330: Icosphere.032
+    4300332: Icosphere.033
+    4300334: Icosphere.034
+    4300336: Icosphere.063
+    4300338: NurbsCurve.014_Mesh.000
+    4300340: NurbsCurve.014_Mesh.005
+    4300342: NurbsPath.002
+    4300344: NurbsPath.008
+    4300346: NurbsPath.010
+    4300348: NurbsPath.040
+    4300350: NurbsPath.041
+    4300352: NurbsPath.043
+    4300354: Hand R
+    4300356: Torus.000
+    4300358: Torus.005
+    4300360: Torus.018
+    4300362: Cube.010
+    9500000: //RootNode
+    10800000: Lamp.001
+    10800002: Lamp.002
+    10800004: Lamp.003
+    10800006: Lamp.004
+    10800008: Lamp.009
+    13700000: BezierCircle.000
+    13700002: BezierCircle.001
+    13700004: BezierCircle.002
+    13700006: BezierCircle.003
+    13700008: BezierCircle.004
+    13700010: BezierCircle.005
+    13700012: BezierCircle.006
+    13700014: BezierCircle.007
+    13700016: BezierCircle.008
+    13700018: BezierCircle.009
+    13700020: BezierCircle.010
+    13700022: BezierCircle.011
+    13700024: BezierCircle.012
+    13700026: BezierCircle.013
+    13700028: BezierCircle.021
+    13700030: BezierCircle.025
+    13700032: BezierCurve
+    13700034: BezierCurve.001
+    13700036: BezierCurve.002
+    13700038: BezierCurve.003
+    13700040: Circle.005
+    13700042: Cube
+    13700044: Cube.002
+    13700046: Cube.003
+    13700048: Cube.004
+    13700050: Cube.006
+    13700052: Cube.010
+    13700054: Cubo.000
+    13700056: Cubo.001
+    13700058: Cylinder.013
+    13700060: Cylinder.014
+    13700062: Cylinder.105_Cylinder.001
+    13700064: Funtime Foxy Arms
+    13700066: Funtime Foxy Legs
+    13700068: Funtime_Foxy_Body_Pink
+    13700070: Funtime_Foxy_Body_Speaker
+    13700072: Funtime_Foxy_Chest
+    13700074: Funtime_Foxy_Endo_Jaw_Under_Teeth
+    13700076: Funtime_Foxy_Endo_Jaw_Upper_Teeth.001
+    13700078: Funtime_Foxy_Snout_Nose.001
+    13700080: funtimefoxy_feets.000
+    13700082: Hand L
+    13700084: Hand L.001
+    13700086: Hand L.002
+    13700088: Hand L.003
+    13700090: Hand L.004
+    13700092: Hand L.005
+    13700094: Hand L.006
+    13700096: Hand L.007
+    13700098: Hand L.008
+    13700100: Hand L.009
+    13700102: Hand L.010
+    13700104: Hand L.011
+    13700106: Hand L.012
+    13700108: Hand L.013
+    13700110: Hand L.014
+    13700112: Hand L.015
+    13700114: Hand L.016
+    13700116: Hand R
+    13700118: Hand R.001
+    13700120: Hand R.002
+    13700122: Hand R.003
+    13700124: Hand R.004
+    13700126: Hand R.005
+    13700128: Hand R.006
+    13700130: Hand R.007
+    13700132: Hand R.008
+    13700134: Hand R.009
+    13700136: Hand R.010
+    13700138: Hand R.011
+    13700140: Hand R.012
+    13700142: Hand R.013
+    13700144: Hand R.014
+    13700146: Hand R.015
+    13700148: Hand R.016
+    13700150: Icosphere.001
+    13700152: Icosphere.002
+    13700154: Icosphere.003
+    13700156: Icosphere.031
+    13700158: Icosphere.032
+    13700160: Icosphere.033
+    13700162: Icosphere.034
+    13700164: Icosphere.063
+    13700166: Lower Arms
+    13700168: Lower Legs
+    13700170: Mask.002
+    13700172: Mask.003
+    13700174: NurbsCurve.014_Mesh.000
+    13700176: NurbsCurve.014_Mesh.005
+    13700178: NurbsPath.002
+    13700180: NurbsPath.008
+    13700182: NurbsPath.010
+    13700184: NurbsPath.040
+    13700186: NurbsPath.041
+    13700188: NurbsPath.043
+    13700190: Plane.002
+    13700192: Plane.003
+    13700194: snout
+    13700196: snout.012
+    13700198: snout.013
+    13700200: snout.014
+    13700202: snout.015
+    13700204: snout.016
+    13700206: snout.017
+    13700208: snout.018
+    13700210: snout.019
+    13700212: snout.020
+    13700214: snout.021
+    13700216: snout.022
+    13700218: snout.023
+    13700220: snout.024
+    13700222: snout.025
+    13700224: snout.026
+    13700226: snout.027
+    13700228: snout.028
+    13700230: snout.029
+    13700232: snout.030
+    13700234: snout.031
+    13700236: snout.032
+    13700238: snout.033
+    13700240: snout.034
+    13700242: snout.035
+    13700244: snout.036
+    13700246: snout.037
+    13700248: snout.038
+    13700250: snout.039
+    13700252: snout.040
+    13700254: snout.041
+    13700256: snout.042
+    13700258: snout.043
+    13700260: Torus.000
+    13700262: Torus.005
+    13700264: Torus.018
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
